@@ -1,3 +1,32 @@
+/**
+ * 
+ *      ┌─┐       ┌─┐ + +
+ *   ┌──┘ ┴───────┘ ┴──┐++
+ *   │                 │
+ *   │       ───       │++ + + +
+ *   ███████───███████ │+
+ *   │                 │+
+ *   │       ─┴─       │
+ *   │                 │
+ *   └───┐         ┌───┘
+ *       │         │
+ *       │         │   + +
+ *       │         │
+ *       │         └──────────────┐
+ *       │                        │
+ *       │                        ├─┐
+ *       │                        ┌─┘
+ *       │                        │
+ *       └─┐  ┐  ┌───────┬──┐  ┌──┘  + + + +
+ *         │ ─┤ ─┤       │ ─┤ ─┤
+ *         └──┴──┘       └──┴──┘  + + + +
+ * *******************************************
+ *        ttgame-api-typescript v0.0.1
+ * *******************************************
+ */
+type comment = () => void;
+
+/** 空参数 */
 type noParam = () => void;
 
 /** 标准对象函数参数 */
@@ -99,4 +128,4 @@ interface TransmitApis {
     shareAppMessage: (options: shareAppMessageOptions) => void;
 }
 // Declares
-declare let tt: OpenApis & TransmitApis;
+declare let tt: OpenApis & TransmitApis ;
