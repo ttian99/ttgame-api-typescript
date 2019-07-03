@@ -7,7 +7,7 @@
 - - [ ] 画布
 - - [ ] 字体
 - - [ ] 帧率
-- - [ ] 图片
+- - [x] 图片
 - - [ ] 帧率
 
 - [ ] [设备](https://developer.toutiao.com/docs/game/#device)
@@ -43,7 +43,7 @@
 
 - [ ] [系统](https://developer.toutiao.com/docs/game/#storage)
 - - [ ] 生命周期
-- - [ ] 系统信息
+- - [x] 系统信息
 - - [ ] 触摸事件
 
 - [ ] [定时器](https://developer.toutiao.com/docs/game/#storage)
@@ -65,7 +65,7 @@
 
 - [ ] [开放接口](https://developer.toutiao.com/docs/game/#storage)
 - - [ ] 关注
-- - [ ] 更多游戏
+- - [x] 更多游戏
 - - [ ] 开放数据域
 - - [ ] 开放数据
 
@@ -79,12 +79,12 @@
 - [] 用户信息
 - [] 支付
 - [] 小程序跳转
-- [] 分享
+- [x] 分享
 - [] 收货地址
-- [] 广告
+- [x] 广告
 - [] 设置
 - [] 授权
 - [] 内容安全
-- [] 数据分析
+- [x] 数据分析
 - [] 视频拍摄器
 
